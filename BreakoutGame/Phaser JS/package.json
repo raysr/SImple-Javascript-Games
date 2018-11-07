@@ -1,0 +1,19 @@
+{
+  "name": "breakout-phaser",
+  "version": "1.0.0",
+  "description": "simple breakout phaser's based game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser",
+    "game",
+    "breakout"
+  ],
+  "author": "Rayan Samy Ramoul",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
